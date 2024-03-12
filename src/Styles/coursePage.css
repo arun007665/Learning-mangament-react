@@ -1,0 +1,60 @@
+.course-hero{
+    min-height: 80vh;
+    background:linear-gradient(45deg, #7011ff, #a671f7);
+}
+.course-hero-right img{
+    border-radius: 10px;
+    border: 3px solid #fff;
+}
+.search{
+    width: 100%;
+    background: #fff;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 10px;
+    border-radius: 100px;
+    /* overflow: hidden; */
+    padding: 5px 10px;
+    position: relative;
+}
+.dropdown-courses{
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    background-color: #fff;
+    bottom: -310px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.644);
+    backdrop-filter: blur(40px);
+    left: 0;
+    padding: 10px;
+    transition: 1s;
+    display: none;
+    overflow: scroll;
+    
+}
+.btn-close{
+    width: fit-content !important;
+    padding: 0;
+}
+.search input:focus~.dropdown-courses{
+    display: block;
+}
+.search input{
+    width: 100%;
+    border: none;
+    outline: none;
+}
+.search .btn-search{
+    border:none;
+    min-width: 150px;
+    background-color: #f0d22a;
+    border-radius: 100px;
+    padding: 10px;
+}
+@media (max-width:600px){
+    .btns button{
+        width: 100%;
+    }
+}

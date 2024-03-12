@@ -1,0 +1,8 @@
+.course-card img{
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.course-card-heading{
+    text-transform:lowercase;
+}
