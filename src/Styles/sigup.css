@@ -1,0 +1,14 @@
+#register{
+    /* background-color: #0c0c0c; */
+    min-height: 100vh;
+}
+ .btn-orange{
+    background-color: rgb(228, 114, 73) !important;
+    color: white !important;
+    font-weight: bold !important;
+
+
+}.oranges{
+background-color: rgb(218, 133, 102) !important;
+color: white !important;
+}

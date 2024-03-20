@@ -6,6 +6,8 @@
     border-radius: 10px;
     border: 3px solid #fff;
 }
+
+
 .search{
     width: 100%;
     background: #fff;
@@ -17,6 +19,14 @@
     /* overflow: hidden; */
     padding: 5px 10px;
     position: relative;
+}
+
+.image-course{
+    border-radius: 50% 10%;
+    border:2px groove white;
+    outline: 3px solid white;
+    box-shadow: 5px 4px 15px #1d1919;
+   
 }
 .dropdown-courses{
     position: absolute;
@@ -58,3 +68,5 @@
         width: 100%;
     }
 }
+
+

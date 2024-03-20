@@ -1,0 +1,57 @@
+ export const vediourl=[
+    {
+        id:1,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+},
+    {
+        id:2,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+},
+    {
+        id:3,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+},
+    {
+        id:4,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+},
+    {
+        id:5,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+},
+    {
+        id:6,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+},
+    {
+        id:7,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+}
+  ,  {
+        id:8,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+}
+   , {
+        id:9,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+}
+    ,{
+        id:10,
+    Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+    status:locked
+}
+,{
+    id:11,
+Vedios:["https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA","https://www.youtube.com/embed/L_eF8az2cSA"],
+status:locked
+}
+]
